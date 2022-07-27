@@ -12,7 +12,5 @@ public class Homework1 {
 				System.out.println(i);
 			}
 		}
-		int num = 200;
-		System.out.println(num);
 	}
 }
